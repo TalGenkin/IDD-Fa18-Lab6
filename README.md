@@ -10,7 +10,7 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 
 I change the questions to be trivia questions. The user gets three questions: what is the capital of spain, how much is 2 in the power of 1024 and in what year was the airplane invented. If the user answers correctly, s/he gets a message that the answer was correct, and otherwise, that the answer wasn't correct, and gets the correct answer. I did leave the font change at the end and just changed the quetion.
 
-![The code](chatServer.js)
+[The code](chatServer.js)
 
 ## Record someone trying out your ChatBot
 
